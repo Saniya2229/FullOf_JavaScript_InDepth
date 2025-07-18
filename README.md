@@ -14,6 +14,7 @@ This repository contains organized folders demonstrating fundamental JavaScript 
 | `part6` | Constructor functions, prototypes, and OOP |
 | `part7` | Basic webpage with external JS (`index.html` + `script.js`) |
 | `part8` | Basic DOM manipulation with HTML & JS |
+| `part9` | Adavance Javascript with challenges |
 
 ## 🚀 How to Run the Code
 
