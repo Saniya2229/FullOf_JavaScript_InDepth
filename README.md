@@ -15,6 +15,7 @@ This repository contains organized folders demonstrating fundamental JavaScript 
 | `part7` | Basic webpage with external JS (`index.html` + `script.js`) |
 | `part8` | Basic DOM manipulation with HTML & JS |
 | `part9` | Adavance Javascript with challenges |
+| `part10` | javascript challenges |
 
 ## 🚀 How to Run the Code
 
